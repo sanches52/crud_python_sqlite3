@@ -23,7 +23,6 @@ O sistema também permitirá visualizar, editar e excluir os leads, além de atu
 
 ## 🛠️Tecnologias utilizadas:
 
-> Editor de código
 Linguagens
 > SQLITE e PYTHON
 
@@ -31,6 +30,6 @@ Linguagens
 
 > Python 3.13
 
-## Autores:
+## Autor:
 
 > Felipe Sanches
