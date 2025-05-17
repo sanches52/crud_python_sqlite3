@@ -23,10 +23,10 @@ O sistema também permitirá visualizar, editar e excluir os leads, além de atu
 
 ## 🛠️Tecnologias utilizadas:
 
-Linguagens
-> Python: linguagem principal de programação.
-> TKinter: biblioteca padrão do Python para criar interfaces gráficas (GUI).
-> SQLite (sqlite3): banco de dados leve embutido, usado para armazenar o registro de forma local. 
+Linguagens:
+- Python: linguagem principal de programação.
+- TKinter: biblioteca padrão do Python para criar interfaces gráficas (GUI).
+- SQLite (sqlite3): banco de dados leve embutido, usado para armazenar o registro de forma local. 
 
 ## Versões:
 
